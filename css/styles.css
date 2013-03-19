@@ -1,0 +1,18 @@
+
+
+body{
+ margin-top: 50px;
+ margin-left: 50px;
+ background-color: #C6BAAE;
+
+}
+
+.border{
+	border-right: thin solid black;
+	text-align: center;
+}
+
+.paragraph{
+	text-align: left;
+	margin-left: 15px;
+}
